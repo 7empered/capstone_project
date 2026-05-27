@@ -13,17 +13,3 @@
 - 👤 Профіль — налаштування, зміна пароля, експорт/імпорт
 - 🌓 Темна та світла тема
 
-## Технології
-
-- HTML5 / CSS3 / Vanilla JavaScript
-- Chart.js 4.4
-- Google Fonts (Sora, JetBrains Mono)
-- localStorage для зберігання даних
-
-## Запуск
-
-Просто відкрийте `index.html` у браузері — жодних залежностей встановлювати не потрібно.
-
-## GitHub Pages
-
-Після завантаження на GitHub увімкніть **GitHub Pages** (Settings → Pages → Branch: main) і застосунок буде доступний онлайн.
